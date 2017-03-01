@@ -1,1 +1,26 @@
-# bookclub
+# Books of 2017
+At the beginning of 2017 I have decided that this will be the year I will read as many books as I can. The set minimum is 2 books a month. Ideally, I would like to achieve the ultimate goal: one book a week. Now, this text is just me trying to keep record of what I have read in 2017 and I hope that it will inspire you to read more as well!
+
+### Reading strategy
+Reading is never urgent, but it is very important, so finding time for it is crucial.  
+I usually read _before I start my day_, before work and before going online. I figured that reading can wake up my brain in a much better way compared to all that noise online. It also seems to make me calmer and more focused. Since it's the start of the day, the mind has yet to be inundated with distractions, and so mental absorption rate during reading of a book is pretty high.
+
+### What do I read?
+I am mostly interested in, but not limited to, (re)reading about the following topics: computer science, design, user experience, popular science and society. And I also love good story telling!
+
+## Diary of 2017
+
+### March
+_reading  
+Death and the Dervish - Mesa Selimović  
+You Don't Know JS: Up & Going - Kyle Simpson_
+
+### February
+Ludvig - David Albahari  
+Freud’s Sister - Goce Smilevski  
+Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days - Knapp, Zeratsky, Kowitz  
+Tibetan Book of the Dead (Bardo Thodol)
+
+### January
+User Story Mapping: Discover the Whole Story, Build the Right Product - Jeff Patton  
+Walk Trough Walls: A Memoir - Marina Abramović
