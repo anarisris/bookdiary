@@ -1,4 +1,4 @@
-# Reading Diary
+# Book Diary
 At the beginning of 2017 I have decided that this will be the year I will read as many books as I can. The set minimum is 2 books a month. Ideally, I would like to achieve the ultimate goal: one book a week. Now, this text is just me trying to keep record of what I have read in 2017 and I hope that it will inspire you to read more as well!
 
 ### Reading strategy
