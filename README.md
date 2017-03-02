@@ -1,4 +1,4 @@
-# Books of 2017
+# Reading Diary
 At the beginning of 2017 I have decided that this will be the year I will read as many books as I can. The set minimum is 2 books a month. Ideally, I would like to achieve the ultimate goal: one book a week. Now, this text is just me trying to keep record of what I have read in 2017 and I hope that it will inspire you to read more as well!
 
 ### Reading strategy
@@ -8,7 +8,7 @@ I usually read _before I start my day_, before work and before going online. I f
 ### What do I read?
 I am mostly interested in, but not limited to, (re)reading about the following topics: computer science, design, user experience, popular science and society. And I also love good story telling!
 
-## Diary of 2017
+## 2017
 
 ### March
 _reading  
