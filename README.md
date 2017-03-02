@@ -26,8 +26,10 @@ User Story Mapping: Discover the Whole Story, Build the Right Product - Jeff Pat
 Walk Trough Walls: A Memoir - Marina Abramović
 
 ## Wishlist
-Code: The Hidden Language of Computer Hardware and Software - Charles Petzold
+Code: The Hidden Language of Computer Hardware and Software - Charles Petzold  
 New Scientist: The Origin of (almost) Everything  
 Blankets - Craig Thompson  
 Persepolis - Marjane Satrapi  
+On Writing - Stephen King  
+Norwegian Wood - Haruki Murakami    
 How the Mind Works - Steven Pinker 
