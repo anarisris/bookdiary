@@ -28,8 +28,9 @@ Walk Trough Walls: A Memoir - Marina Abramović
 ## Wishlist
 Code: The Hidden Language of Computer Hardware and Software - Charles Petzold  
 New Scientist: The Origin of (almost) Everything  
-Blankets - Craig Thompson  
 Persepolis - Marjane Satrapi  
+All About Love: New Visions - Bell Hooks  
+Mom & Me & Mom - Maya Angelou  
 On Writing - Stephen King  
-Norwegian Wood - Haruki Murakami    
-How the Mind Works - Steven Pinker 
+How the Mind Works - Steven Pinker  
+A Thousand Splendid Suns - Khaled Hosseini
