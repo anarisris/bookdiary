@@ -28,12 +28,23 @@ Walk Trough Walls: A Memoir - Marina Abramović
 ## Wishlist
 Code: The Hidden Language of Computer Hardware and Software - Charles Petzold  
 New Scientist: The Origin of (almost) Everything  
+Black Hole Blues and Other Songs from Outer Space - Janna Levin  
+Time Travel: A History - James Gleick  
+Unforbidden Pleasures - Adam Phillips  
 Persepolis - Marjane Satrapi  
 Catching the Big Fish - David Lynch  
+I Contain Multitudes - Ed Yong  
 All About Love: New Visions - Bell Hooks  
 Mom & Me & Mom - Maya Angelou  
 On Writing - Stephen King  
 How the Mind Works - Steven Pinker  
 A Thousand Splendid Suns - Khaled Hosseini  
 The Hidden Life of Trees - Peter Wohlleben  
-
+At the Same Time: Essays and Speeches - Susan Sontag  
+The View from the Cheap Seats - Neil Gaiman  
+Hold Still: A Memoir with Photographs - Sally Mann  
+When Breath Becomes Air - Paul Kalanithi  
+Women in Science: 50 Fearless Pioneers Who Changed the World  
+Felt Time - Marc Wittmann  
+The Nothing That Is - Robert Kaplan  
+Being a dog - Alexandra Horowitz
