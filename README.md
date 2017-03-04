@@ -29,8 +29,11 @@ Walk Trough Walls: A Memoir - Marina Abramović
 Code: The Hidden Language of Computer Hardware and Software - Charles Petzold  
 New Scientist: The Origin of (almost) Everything  
 Persepolis - Marjane Satrapi  
+Catching the Big Fish - David Lynch  
 All About Love: New Visions - Bell Hooks  
 Mom & Me & Mom - Maya Angelou  
 On Writing - Stephen King  
 How the Mind Works - Steven Pinker  
-A Thousand Splendid Suns - Khaled Hosseini
+A Thousand Splendid Suns - Khaled Hosseini  
+The Hidden Life of Trees - Peter Wohlleben  
+
