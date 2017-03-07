@@ -47,4 +47,6 @@ When Breath Becomes Air - Paul Kalanithi
 Women in Science: 50 Fearless Pioneers Who Changed the World  
 Felt Time - Marc Wittmann  
 The Nothing That Is - Robert Kaplan  
-Being a dog - Alexandra Horowitz
+Being a dog - Alexandra Horowitz  
+Universal Principles of Design, Revised and Updated  
+Designing Interface Animation - Val Head
