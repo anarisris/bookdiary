@@ -30,7 +30,6 @@ New Scientist: The Origin of (almost) Everything
 Black Hole Blues and Other Songs from Outer Space - Janna Levin  
 Time Travel: A History - James Gleick  
 Unforbidden Pleasures - Adam Phillips  
-Persepolis - Marjane Satrapi  
 Catching the Big Fish - David Lynch  
 I Contain Multitudes - Ed Yong  
 All About Love: New Visions - Bell Hooks  
