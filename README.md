@@ -11,9 +11,8 @@ I am mostly interested in, but not limited to, (re)reading about the following t
 ## 2017
 
 ### March
-_reading  
 Death and the Dervish - Mesa Selimović  
-You Don't Know JS: Up & Going - Kyle Simpson_
+_reading You Don't Know JS: Up & Going - Kyle Simpson_
 
 ### February
 Ludvig - David Albahari  
