@@ -12,9 +12,9 @@ I am mostly interested in, but not limited to, (re)reading about the following t
 
 ### March
 Death and the Dervish - Mesa Selimović  
+Norwegian Wood - Haruki Murakami  
 _reading  
-You Don't Know JS: Up & Going - Kyle Simpson  
-Norwegian Wood - Haruki Murakami_
+You Don't Know JS: Up & Going - Kyle Simpson_
 
 ### February
 Ludvig - David Albahari  
