@@ -11,11 +11,12 @@ I am mostly interested in, but not limited to, (re)reading about the following t
 ## 2017
 
 ### March
-Death and the Dervish - Mesa Selimović  
+Persepolis - Marjane Satrapi  
 Norwegian Wood - Haruki Murakami  
+Death and the Dervish - Mesa Selimović  
+
 _reading  
-You Don't Know JS: Up & Going - Kyle Simpson  
-Persepolis - Marjane Satrapi_
+You Don't Know JS: Up & Going - Kyle Simpson_
 
 ### February
 Ludvig - David Albahari  
