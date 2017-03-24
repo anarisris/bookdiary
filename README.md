@@ -17,7 +17,7 @@ Death and the Dervish - Mesa Selimović
 
 _reading  
 You Don't Know JS: Up & Going - Kyle Simpson  
-Introducing Feminism: A Graphic Guide _
+Introducing Feminism: A Graphic Guide_
 
 ### February
 Ludvig - David Albahari  
