@@ -16,7 +16,8 @@ Norwegian Wood - Haruki Murakami
 Death and the Dervish - Mesa Selimović  
 
 _reading  
-You Don't Know JS: Up & Going - Kyle Simpson_
+You Don't Know JS: Up & Going - Kyle Simpson  
+Introducing Feminism: A Graphic Guide _
 
 ### February
 Ludvig - David Albahari  
