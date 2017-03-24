@@ -30,11 +30,9 @@ User Story Mapping: Discover the Whole Story, Build the Right Product - Jeff Pat
 Walk Trough Walls: A Memoir - Marina Abramović
 
 ## Wishlist
-Code: The Hidden Language of Computer Hardware and Software - Charles Petzold  
 New Scientist: The Origin of (almost) Everything  
 Black Hole Blues and Other Songs from Outer Space - Janna Levin  
 Time Travel: A History - James Gleick  
-Unforbidden Pleasures - Adam Phillips  
 Catching the Big Fish - David Lynch  
 I Contain Multitudes - Ed Yong  
 All About Love: New Visions - Bell Hooks  
@@ -49,7 +47,6 @@ Hold Still: A Memoir with Photographs - Sally Mann
 When Breath Becomes Air - Paul Kalanithi  
 Women in Science: 50 Fearless Pioneers Who Changed the World  
 Felt Time - Marc Wittmann  
-The Nothing That Is - Robert Kaplan  
 Being a dog - Alexandra Horowitz  
 Universal Principles of Design, Revised and Updated  
 Designing Interface Animation - Val Head
