@@ -10,8 +10,10 @@ I am mostly interested in, but not limited to, (re)reading about the following t
 
 ## 2017  
 ### April  
-_currently reading: Unforbidden Pleasures - Adam Smith_  
- Introducing Feminism: A Graphic Guide
+_currently reading:  
+Unforbidden Pleasures - Adam Smith  
+Fictions - Jorge Luis Borges_  
+Introducing Feminism: A Graphic Guide
 
 ### March  
 You Don't Know JS: Up & Going - Kyle Simpson   
