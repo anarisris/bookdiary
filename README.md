@@ -9,11 +9,12 @@ I usually read _before I start my day_, before work and before going online. I f
 I am mostly interested in, but not limited to, (re)reading about the following topics: computer science, design, user experience, popular science and society. And I also love good story telling!
 
 ## 2017  
-### April  
+### May  
 _currently reading:  
-Unforbidden Pleasures - Adam Smith  
-Fictions - Jorge Luis Borges_ 
+Unforbidden Pleasures - Adam Smith_  
 
+### April  
+Fictions - Jorge Luis Borges  
 Introducing Feminism: A Graphic Guide
 
 ### March  
