@@ -58,4 +58,7 @@ Women in Science: 50 Fearless Pioneers Who Changed the World
 Felt Time - Marc Wittmann  
 Being a dog - Alexandra Horowitz  
 Universal Principles of Design, Revised and Updated  
-Designing Interface Animation - Val Head
+Designing Interface Animation - Val Head  
+Zabranjeno čitanje - Dubravka Ugrešić   
+A Room of One's Own - Virginia Woolf  
+Sapiens: A Brief History of Humankind - Yuval Noah Harari 
