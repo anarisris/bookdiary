@@ -9,6 +9,10 @@ I usually read _before I start my day_, before work and before going online. I f
 I am mostly interested in, but not limited to, (re)reading about the following topics: computer science, design, user experience, popular science and society. And I also love good story telling!
 
 ## 2017  
+### June   
+Dabogda te majka rodila - Vedrana Rudan  
+_Reading: Introducing Linguistics: A Graphic Guide_  
+
 ### May  
 The Physics of Sorrow - Georgi Gospodinov  
 Вечно сегашно време - Владимир Јанковски  
